@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1fad6bcb-6f88-4088-a609-1ba9a50430c2" name="thevitaldesigning.com" url="http://thevitaldesigning.com">
+        <fileTransfer host="thevitaldesigning.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="69493d24-f430-4ec3-bcd4-a1578f6075c2" name="ftp.thevitaldesigning.com" url="http://thevitaldesigning.com">
+        <fileTransfer host="thevitaldesigning.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
